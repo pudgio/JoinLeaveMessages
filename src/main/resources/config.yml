@@ -1,0 +1,5 @@
+# Join message
+join-message: '{player} has entered the Underworld'
+
+# Leave message
+quit-message: '{player} has left the Underworld'

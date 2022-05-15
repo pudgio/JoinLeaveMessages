@@ -1,0 +1,6 @@
+name: JoinLeaveMessages
+version: '1.2-SNAPSHOT'
+main: com.pudgio.dev.joinleavemessages.JoinLeaveMessages
+api-version: 1.18
+authors: [ pudgio ]
+description: Changes the servers join and leave messages for players.
